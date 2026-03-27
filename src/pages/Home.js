@@ -1,11 +1,11 @@
-import myPhoto from "../assets/Lidiya.jpg";
+/*import myPhoto from "../assets/Lidiya.jpg";*/
 import "./Projects.css";
 function Home() {
   return (
     <div>
 
   <section id="home" className="home-top">
-  <img src={myPhoto} alt="Lidiya" className="profile-photo-large" />
+  <img src="/Lidiya.jpg" alt="Lidiya" className="profile-photo-large" />
 
   <h1>Hello, I'm Lidiya</h1>
 
